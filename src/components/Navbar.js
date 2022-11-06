@@ -30,12 +30,12 @@ const Navbar = () => {
           }}
         />
       </Link>
-      <Stack direction="row" gap="40px" fontSize="24px" allignItems="flex-end">
+      <Stack direction="row" gap="40px" fontSize="24px" alignItems="flex-end">
         <Link
           to="/"
           style={{
             textDecoration: "none",
-            color: "3A1212",
+            color: "#3A1212",
             borderBottom: "3px solid #FF2625",
           }}
         >
