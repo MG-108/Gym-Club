@@ -45,6 +45,7 @@ body {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  margin: 1em 0 1em 0;
 }
 
 .detail-image {
@@ -66,7 +67,11 @@ body {
   height: 445px;
   background: #fff;
   border-top: 4px solid #ff2625;
-  border-bottom-left-radius: 20px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
   text-decoration: none;
   display: flex;
   justify-content: space-between;
