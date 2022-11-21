@@ -1,7 +1,7 @@
 <h1 align="center">Gym Club App</h1>
 
 <h2>Access to Project </h2>
-  <p>Link: https://mg-gym-club.netlify.app/  </p>
+  <p>Link:https://gym-club-mg.netlify.app/  </p>
 
 <h2>Project Description</h2>
 
