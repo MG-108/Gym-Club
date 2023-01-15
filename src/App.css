@@ -1,5 +1,5 @@
 body {
-  font-family: "Josefin Sans";
+  font-family: 'Josefin Sans';
   background-color: #fffafb;
 }
 
@@ -10,8 +10,8 @@ body {
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
+  width: 5px;
+  height: 5px;
   background-color: #f5f5f5;
   overflow-x: auto;
 }
