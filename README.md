@@ -1,32 +1,27 @@
 <h1 align="center">Gym Club App</h1>
-
-<h2>Access to Project </h2>
-  <p>Link:https://gym-club-mg.netlify.app/  </p>
+<h2>Access to Project</h2>
+  <p>Link: https://gym-club-mg.netlify.app/</p>
 
 <h2>Project Description</h2>
-
-  <p>React 18 Fitness Exercises App, with the funcionalitty to chose exercise categories ans specific muscle groups. 
-  Browse a variety of exercises with practical examples </p>
-   
- <p>Using ExerciseDB API from rapidAPI: https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb?utm_source=youtube.com%2FJavaScriptMasteryutm_medium=referral&utm_campaign=DevRel for everything related to exercises.
-
-Using Youtube Search and Download API from rapidAPI: https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel to show related videos about the specific exercise.</p>
+  <p>This React 18 Fitness Exercises App allows users to choose exercise categories and specific muscle groups. Users can browse a variety of exercises with practical examples, using the ExerciseDB API from RapidAPI (https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb) for all exercise-related information, and the Youtube Search and Download API from RapidAPI (https://rapidapi.com/h0p3rwe/api/youtube-search-and-download) to show related videos about specific exercises.</p>
 
 <h2>Application Features</h2>
-
-<p>Search exercises by name </p>
-<p>Search exercise by categories</p>
-<p>Below Showing Results</p>
-<p>9 cards with pratical examples about the exercise searched  per page with a huge variety, 
-<p>clicking in one exercise card you navigate to exercise detail page,</p>
-<p>showing exercise videos related to the specific exercise,</p>
-<p>exercises that target the same muscle group and </p>
-<p>exercises that use the same equipment group</p>
-
-<h2>Technologies used</h2>
-<p>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)</p>
-<p>React 18</p>
-<p>React Router Dom </p>
-<p>React-Horizontal-Scrolling-Menu</p>
-<p>React-Loader-Spinner</p>
-<p>Material UI to build the user interface</p>
+  <ul>
+    <li>Search exercises by name</li>
+    <li>Search exercises by categories</li>
+    <li>Display of 9 cards per page with practical examples of the searched exercise</li>
+    <li>Navigation to exercise detail page by clicking on an exercise card</li>
+    <li>Displays related videos for the specific exercise</li>
+    <li>Shows exercises that target the same muscle group</li>
+    <li>Shows exercises that use the same equipment group</li>
+  </ul>
+  
+<h2>Technologies Used</h2>
+  <ul>
+    <li>Create React App (https://github.com/facebook/create-react-app) for initial setup</li>
+    <li>React 18</li>
+    <li>React Router Dom</li>
+    <li>React-Horizontal-Scrolling-Menu</li>
+    <li>React-Loader-Spinner</li>
+    <li>Material UI for user interface design</li>
+  </ul>
